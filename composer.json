@@ -19,7 +19,7 @@
     "require": {
         "php": "^7.4|^8.0|^8.1",
         "ext-json": "*",
-        "brick/money": "^0.5.2",
+        "brick/money": "^0.9.0",
         "phpjuice/paypal-http-client": "^1.0"
     },
     "require-dev": {
